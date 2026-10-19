@@ -1,0 +1,2 @@
+rows,cells,first_ts,last_ts,max_gap_hours,dup_keys,target_missing_pct
+3945450,150,2022-01-01,2024-12-31 22:00:00,1.0,0,6.02

@@ -1,0 +1,7 @@
+repair_step,arife,bridge_day,holiday,ordinary,week_after_holiday
+R0 raw records,48.569,54.092,35.084,46.314,50.679
+R1 + one row per cell and hour,48.569,54.092,35.084,46.314,50.679
+R2 + hourly grid,50.04,41.302,39.593,41.191,54.724
+R3 + outage and faulty hours left out,49.62,40.89,38.782,41.081,54.368
+R4 + calendar,50.735,40.413,31.479,40.827,54.177
+R5 + holiday-aware weekly lag,52.506,40.95,32.333,41.068,41.786

@@ -1,0 +1,43 @@
+# ---------------------------------------------------------------
+# Next-Hour Traffic Forecasting - files kept out of Git
+# ---------------------------------------------------------------
+
+# Python environment and notebook caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw and intermediate data (too large for GitHub; Notebook A downloads
+# the raw files from the IBB open data portal and rebuilds everything)
+data/raw/
+data/interim/
+data/processed/*.parquet
+*.incomplete
+*.part
+
+# Model and fold caches written by Notebook B
+report/cache*/
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+
+# Archives and abandoned drafts
+*.zip
+ACDSA_latex/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

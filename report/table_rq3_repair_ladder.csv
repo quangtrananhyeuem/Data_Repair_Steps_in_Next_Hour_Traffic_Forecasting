@@ -1,0 +1,7 @@
+repair_step,Extra Trees,LightGBM,MLP,Ridge,mean,change_from_previous
+R0 raw records,42.478,40.847,41.664,59.439,46.107,
+R1 + one row per cell and hour,42.478,40.847,41.664,59.439,46.107,0.0
+R2 + hourly grid,39.908,38.069,38.859,50.715,41.888,-4.219
+R3 + outage and faulty hours left out,39.641,38.1,38.405,50.786,41.733,-0.155
+R4 + calendar,39.315,37.506,37.767,50.18,41.192,-0.541
+R5 + holiday-aware weekly lag,38.653,37.077,38.724,48.799,40.813,-0.378

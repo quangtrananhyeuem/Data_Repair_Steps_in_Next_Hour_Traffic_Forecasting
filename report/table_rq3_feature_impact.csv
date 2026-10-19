@@ -1,0 +1,41 @@
+model,day_group,factor,delta,delta_sd_folds,mae0,folds,change_pct,share_pct
+Extra Trees,ordinary,All other,4.2672,1.7753,40.1088,8,10.6392,3.1495
+Extra Trees,ordinary,Recent traffic,69.133,31.5526,40.1088,8,172.3636,51.0252
+Extra Trees,ordinary,Same hour last week,15.0056,10.5692,40.1088,8,37.4123,11.0752
+Extra Trees,ordinary,Same hour yesterday,13.1308,6.8151,40.1088,8,32.7381,9.6915
+Extra Trees,ordinary,Time of day/week,33.9513,13.8267,40.1088,8,84.6481,25.0585
+Extra Trees,week_after_holiday,All other,3.3043,1.6576,45.1732,8,7.3148,2.7141
+Extra Trees,week_after_holiday,Recent traffic,65.8249,34.7784,45.1732,8,145.7168,54.0675
+Extra Trees,week_after_holiday,Same hour last week,8.3009,4.5668,45.1732,8,18.3757,6.8182
+Extra Trees,week_after_holiday,Same hour yesterday,12.2441,8.311,45.1732,8,27.1049,10.0571
+Extra Trees,week_after_holiday,Time of day/week,32.0715,20.3785,45.1732,8,70.9969,26.343
+LightGBM,ordinary,All other,3.7003,1.3135,38.2218,8,9.6812,2.6774
+LightGBM,ordinary,Recent traffic,79.8443,38.5002,38.2218,8,208.8971,57.7714
+LightGBM,ordinary,Same hour last week,18.0561,11.2789,38.2218,8,47.2403,13.0645
+LightGBM,ordinary,Same hour yesterday,15.4003,6.6657,38.2218,8,40.292,11.1429
+LightGBM,ordinary,Time of day/week,21.2063,7.1884,38.2218,8,55.4822,15.3438
+LightGBM,week_after_holiday,All other,3.2394,1.6787,44.2305,8,7.324,2.558
+LightGBM,week_after_holiday,Recent traffic,74.3653,38.9057,44.2305,8,168.1315,58.7218
+LightGBM,week_after_holiday,Same hour last week,11.8039,5.8217,44.2305,8,26.6872,9.3208
+LightGBM,week_after_holiday,Same hour yesterday,15.3261,9.823,44.2305,8,34.6506,12.1021
+LightGBM,week_after_holiday,Time of day/week,21.9052,13.669,44.2305,8,49.5253,17.2973
+MLP,ordinary,All other,2.6617,0.889,39.7828,8,6.6907,1.7902
+MLP,ordinary,Recent traffic,73.482,34.9883,39.7828,8,184.7081,49.4209
+MLP,ordinary,Same hour last week,26.0717,13.287,39.7828,8,65.5351,17.5347
+MLP,ordinary,Same hour yesterday,23.2251,10.7866,39.7828,8,58.3798,15.6202
+MLP,ordinary,Time of day/week,23.2455,8.6946,39.7828,8,58.4311,15.634
+MLP,week_after_holiday,All other,2.7313,1.8258,45.5328,8,5.9985,1.8851
+MLP,week_after_holiday,Recent traffic,75.0165,34.7101,45.5328,8,164.7526,51.775
+MLP,week_after_holiday,Same hour last week,20.8445,12.018,45.5328,8,45.7791,14.3865
+MLP,week_after_holiday,Same hour yesterday,23.1144,14.7069,45.5328,8,50.7643,15.9531
+MLP,week_after_holiday,Time of day/week,23.1826,16.0825,45.5328,8,50.914,16.0002
+Ridge,ordinary,All other,0.711,0.364,49.9485,8,1.4236,0.613
+Ridge,ordinary,Recent traffic,49.6605,23.9936,49.9485,8,99.4234,42.81
+Ridge,ordinary,Same hour last week,38.361,21.8168,49.9485,8,76.8012,33.0693
+Ridge,ordinary,Same hour yesterday,23.4124,12.5915,49.9485,8,46.8731,20.1828
+Ridge,ordinary,Time of day/week,3.8571,2.557,49.9485,8,7.7221,3.325
+Ridge,week_after_holiday,All other,0.6395,0.3448,62.8791,8,1.017,0.7194
+Ridge,week_after_holiday,Recent traffic,42.5753,22.3951,62.8791,8,67.7098,47.8985
+Ridge,week_after_holiday,Same hour last week,23.4026,10.8856,62.8791,8,37.2184,26.3286
+Ridge,week_after_holiday,Same hour yesterday,16.8863,8.0537,62.8791,8,26.8552,18.9976
+Ridge,week_after_holiday,Time of day/week,5.3828,5.3891,62.8791,8,8.5606,6.0558

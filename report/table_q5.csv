@@ -1,0 +1,8 @@
+day_type,cell_hours,last_week_over_today
+week_after_holiday,170404,0.764
+weekend,894013,0.992
+weekday,2216710,1.001
+special_event,51157,1.081
+arife,27150,1.22
+admin_leave,7200,1.347
+holiday,138000,1.428

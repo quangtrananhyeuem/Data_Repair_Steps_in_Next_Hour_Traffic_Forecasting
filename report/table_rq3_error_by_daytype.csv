@@ -1,0 +1,5 @@
+model,arife,bridge_day,holiday,ordinary,special_event,week_after_holiday,echo_ratio
+Extra Trees,45.502,39.158,27.537,39.229,36.836,49.597,1.264
+LightGBM,43.552,42.39,28.471,37.266,40.931,47.888,1.285
+MLP,57.039,39.252,30.199,37.466,63.258,46.463,1.24
+Ridge,56.849,40.851,39.708,49.35,46.831,72.759,1.474

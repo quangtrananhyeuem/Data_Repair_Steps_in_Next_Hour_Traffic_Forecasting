@@ -1,0 +1,4 @@
+table,rows,pct_lag1_not_1h,pct_weekly_lag_not_1w,pct_target_not_next_hour
+R0,3708004,0.522,45.728,0.522
+R1,3708004,0.522,45.728,0.522
+R2+ hourly grid,3707854,0.0,0.0,0.0

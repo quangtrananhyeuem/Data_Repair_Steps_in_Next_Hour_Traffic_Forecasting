@@ -1,0 +1,26 @@
+date,mean_vehicles,hours,dow,ref,ratio,day_type,event_name
+2024-06-17,220.157,24,0,495.921,0.444,holiday,Kurban Bayrami
+2024-04-11,224.093,24,3,503.999,0.445,holiday,Ramazan Bayrami
+2024-04-10,221.718,24,2,496.772,0.446,holiday,Ramazan Bayrami
+2024-06-18,215.809,24,1,483.166,0.447,holiday,Kurban Bayrami
+2024-06-19,231.314,24,2,501.142,0.462,holiday,Kurban Bayrami
+2024-04-12,241.601,24,4,509.653,0.474,holiday,Ramazan Bayrami
+2022-05-03,209.077,24,1,356.593,0.586,holiday,Ramazan Bayrami
+2022-07-12,202.635,24,1,339.581,0.597,holiday,Kurban Bayrami
+2022-07-11,196.216,24,0,324.564,0.605,holiday,Kurban Bayrami
+2022-05-02,205.059,24,0,336.296,0.61,holiday,Ramazan Bayrami
+2024-04-09,315.764,24,1,498.754,0.633,arife,Ramazan Bayrami eve
+2022-05-04,227.019,24,2,355.346,0.639,holiday,Ramazan Bayrami
+2023-06-29,192.421,24,3,298.091,0.646,holiday,Kurban Bayrami
+2022-01-25,211.965,24,1,312.592,0.678,special_event,Heavy snowstorm in Istanbul
+2024-10-29,323.337,24,1,473.611,0.683,holiday,Republic Day
+2022-12-14,208.704,23,2,303.193,0.688,weekday,
+2023-08-09,192.995,24,2,277.023,0.697,weekday,
+2023-04-22,214.338,24,5,304.168,0.705,holiday,Ramazan Bayrami
+2023-04-21,210.001,24,4,297.013,0.707,holiday,Ramazan Bayrami
+2024-06-20,354.001,24,3,495.851,0.714,admin_leave,Kurban Bayrami bridge days (public sector)
+2024-06-21,362.204,24,4,503.285,0.72,admin_leave,Kurban Bayrami bridge days (public sector)
+2024-04-13,286.583,24,5,397.516,0.721,weekend,
+2023-03-10,232.905,24,4,315.555,0.738,weekday,
+2024-08-30,349.401,24,4,470.977,0.742,holiday,Victory Day
+2024-05-01,377.62,24,2,507.353,0.744,holiday,Labour Day

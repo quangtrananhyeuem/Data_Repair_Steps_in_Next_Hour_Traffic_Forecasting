@@ -1,0 +1,23 @@
+step,value
+monthly files used,36.0
+months missing,0.0
+rows in the monthly files,58393117.0
+rows with an unparsed timestamp (dropped),0.0
+rows outside the month of their file (dropped),0.0
+files with swapped lat/lon (fixed),0.0
+rows of the 150 selected cells,3708004.0
+rows with values out of range (set empty),0.0
+rows sharing cell and hour with another row,0.0
+duplicate groups,0.0
+duplicate groups with identical values,0.0
+rows after one row per cell and hour,3708004.0
+cell-hours on the full grid,3945600.0
+cell-hours without a record,237596.0
+share of cell-hours without a record (%),6.02
+city-wide outage hours,1544.0
+partial outage hours,53.0
+faulty hours (values far below normal),99.0
+holiday days,41.0
+arife days,9.0
+bridge (admin leave) days,3.0
+days in the week after a holiday,51.0
